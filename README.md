@@ -1,7 +1,9 @@
 Myntra Mini Clone
+
 A simple shopping cart project that mimics Myntra's functionality.
 
 ✨ Features
+
 Add products to Bag
 
 View Bag items
